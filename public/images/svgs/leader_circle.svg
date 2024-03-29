@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200">
+	<circle cx="100" cy="100" r="80" stroke="black" fill="transparent"/>
+	<path id="text-path" fill="none" stroke="none" d="M 100, 100 m -75, 0 a 75,75 0 1,0 150,0 a 75,75 0 1,0 -150,0"/>
+	<text fill="black" font-size="20" font-family="Arial">
+		<textPath href="#text-path" startOffset="20%">LEADER</textPath>
+	</text>
+</svg>
