@@ -128,8 +128,8 @@ export default function Projects() {
                 title="Red Robin Analysis"
                 summary="The leadership in piloting a team focused on uncovering strategic marketing and branding opportunities involved the adept use of structured analytical frameworks such as 5C, PESTELE, and SWOT to pinpoint critical growth factors and improve efficiencies across logistics, operations, marketing, and the supply chain. By spearheading the evaluation and control processes, key performance indicators and real-time analytics were utilized to meticulously monitor the implementation and evaluation phases. This approach facilitated the optimization of the marketing mix, evaluation controls, and the effective execution of supply chain strategies, demonstrating a comprehensive and strategic approach to enhancing organizational performance and market positioning."
                 img={proj2}
-                link="https://www.linkedin.com/in/aishwarya-chourasia-65b381151/"
-                github="https://github.com/Aishwarya2510"
+                link="https://www.linkedin.com/in/aishwarya-chourasia-65b381151/details/projects/1705383919180/single-media-viewer/?profileId=ACoAACSKRmcBIkaix796YDEueIWrZoU492xwndQ"
+                github="https://github.com/Aishwarya2510/RedRobin_Analysis/blob/main/RedRobin_Analysis.pdf"
               />
             </div>
             <div className="col-span-6 sm:col-span-12">
