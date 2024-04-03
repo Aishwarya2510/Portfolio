@@ -140,7 +140,7 @@ export default function Articles() {
       >
         <Experience />
         <Education />
-        <Layout className="pt-16">
+        {/* <Layout className="pt-16">
           <AnimatedText
             text="Words Can Change the World!"
             className="!text-8xl !leading-tight mb-16 lg:!text-7xl sm:!text-6xl xs:!text-4xl sm:mb-8"
@@ -209,7 +209,7 @@ export default function Articles() {
               link="https://devdreaming.com/blogs/higher-order-component-hoc-react"
             />
           </ul>
-        </Layout>
+        </Layout> */}
       </main>
     </>
   );
